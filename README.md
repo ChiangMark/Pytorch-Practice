@@ -1,2 +1,2 @@
 # Pytorch-Practice
-# 來自"莫煩 Python"
+來自"莫煩 Python"
